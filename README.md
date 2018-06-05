@@ -7,3 +7,6 @@ Utilizo lob files para trabajar con imagenes dentro de la base de datos, trayend
 Trata consultas complejas con mas de una fila de resultados, estas se recorren con un loop.
 # Exceptions 
 Maneja las excepciones del codigo para acutar frente a errores del código.
+
+
+aprender package
